@@ -23,7 +23,7 @@ The "MNT" and "MNT REFORM" logos are trademarks of MNT Research GmbH. You may no
 
 ## Made With
 
-* [KiCAD EDA](http://kicad-pcb.org/)
+* [KiCAD EDA](http://kicad.org/)
 * [OpenSCAD](https://www.openscad.org/)
 * [LUFA](http://www.fourwalledcubicle.com/LUFA.php)
 * Autodesk Fusion (Case parts)
